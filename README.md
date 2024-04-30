@@ -9,7 +9,7 @@ THE ESP-12E attaches over the SDIO interface
 
 ![top](/docs/top.jpg)
 ![bottom](/docs/bottom.jpg)
-
+![bottom](/docs/assembly.jpeg)
 
 ## EDA
 
