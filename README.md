@@ -7,6 +7,10 @@
 A board that adds WiFi to the orignal Raspberry Pi zero that had no WiFi.
 THE ESP-12E attaches over the SDIO interface  
 
+![top](/docs/top.jpg)
+![bottom](/docs/bottom.jpg)
+
+
 ## EDA
 
 Designed in DipTrace
