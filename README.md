@@ -5,7 +5,9 @@
 ## What it is
 
 A board that adds WiFi to the orignal Raspberry Pi zero that had no WiFi.
-THE ESP-12E attaches over the SDIO interface  
+THE ESP-12E attaches over the SDIO interface. 
+
+Originally designed in 2016, but just open sourcing it in 2024. 
 
 ![top](/docs/top.jpg)
 ![bottom](/docs/bottom.jpg)
